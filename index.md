@@ -1,3 +1,8 @@
 ---
 title: Welcome!My friend!
 ---
+tittle: best poems on planet goes for ...
+author: Victor Hugo!
+description: the big french author known by his rich poems and books where worked on 
+different genres and stories but had been able to reach everyone and touch all hearts 
+of the readers.
